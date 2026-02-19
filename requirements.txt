@@ -1,0 +1,7 @@
+opencv-python
+pillow
+numpy
+customtkinter
+darkdetect
+packaging
+tkinterdnd2
