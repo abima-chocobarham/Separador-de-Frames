@@ -16,3 +16,9 @@ Antes de ejecutar la aplicación, asegúrate de tener instalado Python 3.x y las
 ```
 pip install opencv-python customtkinter Pillow
 ```
+O
+
+```
+pip install -r requirements.txt
+```
+
